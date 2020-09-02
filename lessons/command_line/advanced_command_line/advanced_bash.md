@@ -335,6 +335,6 @@ one.
 * The things here: https://www.tecmint.com/useful-linux-commands-for-newbies/
 
 
-# There's now a whole book on this with a free access page!
+# There's now a whole book  on this with a free access page!
 
 https://www.datascienceatthecommandline.com/
