@@ -563,7 +563,7 @@ If you want to find a running process (perhaps to get its Process ID, needed to 
 $ ps -ef | grep <search_term>
 ```
 
-`search_term` will be the name of the program that you want to find, for instance I might search for "spotify" to take a look at the various processes associated with my Spotify app.
+`search_term` will be the name of the program that you want to find, for instance I might search for "spotify" to take a look at the various processes associated with my Spotify  app.
 
 ```
 $ ps -ef | grep spotify
