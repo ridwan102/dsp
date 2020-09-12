@@ -93,7 +93,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> Frequentist inference is based on long-term frequencies, whereas Bayesian inference is rooted in degrees of belief and logical support. 
+Frequentist inference is based on long-term frequencies, whereas Bayesian inference is rooted in degrees of belief and logical support. 
 
 For example in frequentist definition of probability, only repeatable random events (like the result of flipping a coin) have probabilities. These probabilities are equal to the long-term frequency of occurrence of the events in question. Frequentists don’t attach probabilities to hypotheses or to any fixed but unknown values in general. 
 
